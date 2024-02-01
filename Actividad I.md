@@ -1,4 +1,4 @@
-# ACTIVIDAD 1: Ejercicio de creación y actualización de repositorios
+# ACTIVIDAD I: Ejercicio de creación y actualización de repositorios
 
 
 ### EJERCICIO I
