@@ -21,11 +21,16 @@ Entornos de Desarrollo
 
 3. Configurar Git definiendo el nombre de usuario, el correo electrónico y activar la salida en color. Mostrar la configuración final.
 **git config --global user.name “Andrea B Mendez”**
+
 **git config --global user.email “andbermen@alu.edu.gva.es”**
+
 **git config --global color.ui auto**
+
 		    
 **git config --list**
+
 **git config --global --list** 
+
 **git config --local --list**
 
 ## EJERCICIO II
