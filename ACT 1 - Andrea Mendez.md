@@ -12,11 +12,14 @@ Entornos de Desarrollo
 		
 1. Crear un repositorio nuevo con el nombre “Libro” y mostrar su contenido
 **mkdir Libro**
+
 **cd Libro/**
+
 **git init**
+
 **ls -la**
 
-2. Configurar Git definiendo el nombre de usuario, el correo electrónico y activar la salida en color. Mostrar la configuración final.
+3. Configurar Git definiendo el nombre de usuario, el correo electrónico y activar la salida en color. Mostrar la configuración final.
 **git config --global user.name “Andrea B Mendez”**
 **git config --global user.email “andbermen@alu.edu.gva.es”**
 **git config --global color.ui auto**
