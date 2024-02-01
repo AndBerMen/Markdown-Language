@@ -109,27 +109,28 @@
 ### EJERCICIO VI
 Indica a git que quieres ignorar todos los ficheros que empiezar por «daw», todos los que tienen la extensión out y las imágenes (jpg, png, bmp y gif)
 
-**nano .gitignore**
-
-**#Ignorar archivos que comienzan con "daw"**
-
-**daw***
-
-**#Ignorar archivos con extensión ".out"**
-
-***.out**
-
-**#Ignorar imágenes con extensiones ".jpg", ".png", ".bmp" y ".gif"**
-
-***.jpg**
-
-**.png**
-
-**.bmp**
-
-**.gif**
-
-**git add .gitignore**
-
-**git commit -m "Archivo gitignore añadido."**
+	nano .gitignore
+	
+	#Ignorar archivos que comienzan con "daw"
+	
+	daw*
+	
+	#Ignorar archivos con extensión ".out"
+	
+	*.out
+	
+	#Ignorar imágenes con extensiones ".jpg", ".png", ".bmp" y ".gif"
+	
+	*.jpg
+	
+	*.png
+	
+	*.bmp
+	
+	*.gif
+ 
+	
+   ***git add .gitignore***
+	
+   ***git commit -m "Archivo gitignore añadido."***
 
