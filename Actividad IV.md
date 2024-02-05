@@ -1,10 +1,11 @@
 # ACTIVIDAD IV: Gestión de ramas
-### EJERCICIO I
+
+## EJERCICIO I
 1. Crea una nueva rama bibliografía y mostrar las ramas del repositorio.
    
     ***git branch bibliografia***
 
-### EJERCICIO II
+## EJERCICIO II
 1. Crear el fichero Capítulos/capitulo4.txt y añadir el siguiente texto:
    
     ***cat > Capítulos/capitulo4.txt***
@@ -25,7 +26,7 @@
    
     ***git log***
 
-### EJERCICIO III
+## EJERCICIO III
 1. Cambia a la rama bibliografía.
 
    ***git checkout bibliografia***
@@ -49,7 +50,7 @@
 
     ***git log --graph --all –oneline***
 
-### EJERCICIO IV
+## EJERCICIO IV
 1. Fusiona la rama bibliografía con la rama master.
 
     ***git checkout master***
@@ -68,7 +69,7 @@
 
     ***git log --graph --all –oneline***
 
-### EJERCICIO V
+## EJERCICIO V
 1. Crea la rama bibliografía.
 
     ***git branch bibliografia***
