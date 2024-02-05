@@ -1,6 +1,6 @@
 # ACTIVIDAD II: Uso del historial de cambios
 
-### EJERCICIO I
+## EJERCICIO I
 1. Muestra el historial de cambios del repositorio.
 
 	***cd Libro/***
@@ -29,7 +29,7 @@
 
 	***git log***
 
-### EJERCICIO II
+## EJERCICIO II
 
 1. Crea el fichero capitulo2.txt en la carpeta capítulos con el siguiente texto:
 
@@ -54,7 +54,7 @@
 
 	***git diff HEAD~2..HEAD***
 
-### EJERCICIO III
+## EJERCICIO III
 
 1. Crea el fichero capitulo3.txt en la carpeta capítulos con el siguiente texto:
 
@@ -76,7 +76,7 @@
 
 	***git diff 0f8c48..HEAD***
 
-### EJERCICIO IV
+## EJERCICIO IV
 1. Añade al final del fichero index.txt la siguiente línea: “Capítulo 5: conceptos avanzados”
 
 	***nano index.txt***
