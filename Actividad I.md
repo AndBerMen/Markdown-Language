@@ -1,7 +1,7 @@
 # ACTIVIDAD I: Ejercicio de creación y actualización de repositorios
 
 
-### EJERCICIO I
+## EJERCICIO I
 		
 1. Crear un repositorio nuevo con el nombre “Libro” y mostrar su contenido
 	***mkdir Libro***
@@ -30,7 +30,9 @@
 
 
 
-### EJERCICIO II
+
+
+## EJERCICIO II
 1. Comprobar el estado del repositorio
 	
 	***git status***
@@ -58,9 +60,11 @@
 5. Comprobar una vez más el estado del repositorio
 
 	***git status***
+
+
    
 	
-### EJERCICIO III
+## EJERCICIO III
 1. Realizar un commit de los últimos cambios con el mensaje «Añadido índice del libro» y comprobar el estado del repositorio.
 
 	***git commit -m "Añadido índice del libro"***
@@ -68,7 +72,9 @@
 	***git status***
 
 
-### EJERCICIO IV
+
+
+## EJERCICIO IV
 1. Cambiar el fichero index.txt con la siguiente información
 
 	***cat > index.txt***
@@ -92,7 +98,7 @@
 	***git commit -m "Añadido capítulo 3 sobre gestión de ramas."***
 
 
-### EJERCICIO V
+## EJERCICIO V
 1. Mostrar los cambios de la última versión del repositorio con respecto a la anterior
 
 	***git show***
@@ -104,9 +110,11 @@
 3. Volver a mostrar los últimos cambios del repositorio
 
 	***git show***
+
+
    
 
-### EJERCICIO VI
+## EJERCICIO VI
 Indica a git que quieres ignorar todos los ficheros que empiezar por «daw», todos los que tienen la extensión out y las imágenes (jpg, png, bmp y gif)
 
 	nano .gitignore
