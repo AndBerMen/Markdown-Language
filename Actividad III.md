@@ -1,6 +1,6 @@
 # ACTIVIDAD III: Deshacer cambios
 
-### EJERCICIO I
+## EJERCICIO I
 1. Elimina la última línea del fichero índice.txt y guárdalo
    
     ***nano index.txt***
@@ -17,7 +17,7 @@
    
 	***git status***
 
-### EJERCICIO II
+## EJERCICIO II
 1. Elimina la última línea del fichero índice.txt y guárdalo
    
 	***nano index.txt***
@@ -46,7 +46,7 @@
     
     ***git status***
 		
-### EJERCICIO III
+## EJERCICIO III
 1. Elimina la última línea del fichero índice.txt y guardarlo
 
     ***nano index.txt***
@@ -84,7 +84,7 @@
 		
     ***git status***
 
-### EJERCICIO IV
+## EJERCICIO IV
 1. Elimina la última línea del fichero index.txt y guardarlo
 
     ***nano index.txt***
